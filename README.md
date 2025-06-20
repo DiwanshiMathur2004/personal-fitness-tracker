@@ -59,18 +59,18 @@ Age: 20, BMI: 23.5, Duration: 29, HR: 122 → 179.2 kcal
 
 ### 🔹 Input Form
 
-![Input Screenshot]images/Screenshot (325).png)
+[Input Screenshot]images/Screenshot (325).png)
 
 ---
 
 ### 🔹 Output Display 1
 
-![Output Screenshot 1](images/Screenshot (326).png)
+[Output Screenshot 1](images/Screenshot (326).png)
 
 ---
 ### 🔹 Output Display 2
 
-![Output Screenshot 2]images/Screenshot (327).png)
+[Output Screenshot 2]images/Screenshot (327).png)
 
 ---
 
@@ -79,5 +79,5 @@ Age: 20, BMI: 23.5, Duration: 29, HR: 122 → 179.2 kcal
 1. Clone the repository
 2. Install required packages:
 pip install -r requirements.txt
-Run the app (e.g., Streamlit):
-streamlit run app.py
+3. Run the app (e.g., Streamlit):
+4. streamlit run app.py
